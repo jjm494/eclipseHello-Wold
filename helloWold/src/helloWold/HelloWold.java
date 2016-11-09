@@ -7,6 +7,7 @@ public class HelloWold {
 		System.out.println("Hello Wold");
 		System.out.println("Hello Eveyare");
 		System.out.println("Hello master");
+		System.out.println("Hello hotfix");
 	}
 
 }
