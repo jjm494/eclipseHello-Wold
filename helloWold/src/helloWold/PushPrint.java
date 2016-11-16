@@ -7,6 +7,7 @@ public class PushPrint {
 		System.out.println("Add Class File Push");
 		System.out.println("word with local");
 		System.out.println("wold with 365");
+		System.out.println("wold with GitHub");
 	}
 
 }
